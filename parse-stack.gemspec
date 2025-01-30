@@ -32,7 +32,7 @@ Gem::Specification.new do |spec|
   spec.add_runtime_dependency "activesupport", [">= 5", "< 8"]
   spec.add_runtime_dependency "parallel", [">= 1.6", "< 2"]
   spec.add_runtime_dependency "faraday", "< 3"
-  spec.add_runtime_dependency "faraday_middleware", [">= 0.9", "< 2"]
+  spec.add_runtime_dependency "faraday_middleware", [">= 0.9", "< 3"]
   spec.add_runtime_dependency "moneta", "< 2"
   spec.add_runtime_dependency "rack", ">= 2.0.6", "< 3"
 
